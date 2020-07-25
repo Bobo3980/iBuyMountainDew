@@ -41,3 +41,7 @@ You can contact me via email or Discord. These contacts are listed below;
 
 **Email**: `dewy@dewy.dev`
 **Discord**: `iBuyMountainDew#3731`
+
+## Stats
+
+[![dewy's github stats](https://github-readme-stats.vercel.app/api?username=iBuyMountainDew)](https://dqs.dewy.dev)
