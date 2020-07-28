@@ -5,6 +5,8 @@
 
 <h4 align="center">A Java developer.</h4>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=iBuyMountainDew" alt="dewy" /></p>
+
 <p align="center">
   <a href="https://dqs.dewy.dev">DQS</a>
   •
