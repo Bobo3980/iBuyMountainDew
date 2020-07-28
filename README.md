@@ -44,5 +44,5 @@ You can contact me via email or Discord. These contacts are listed below;
 
 ## Stats
 
-[![dewy's github stats](https://github-readme-stats.vercel.app/api?username=iBuyMountainDew&show_icons=true)](https://dqs.dewy.dev)
 [![dewy's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iBuyMountainDew)](https://dqs.dewy.dev)
+[![dewy's github stats](https://github-readme-stats.vercel.app/api?username=iBuyMountainDew&show_icons=true)](https://dqs.dewy.dev)
