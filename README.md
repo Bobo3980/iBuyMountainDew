@@ -44,6 +44,8 @@ You can contact me via email or Discord. These contacts are listed below;
 **Email**: `dewy@dewy.dev`
 **Discord**: `iBuyMountainDew#3731`
 
+For more secretive conversation, contact me on **[Keybase](https://keybase.io/dewy)**.
+
 ## Stats
 
 [![dewy's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iBuyMountainDew)](https://dqs.dewy.dev)
