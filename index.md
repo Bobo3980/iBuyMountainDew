@@ -14,15 +14,15 @@
 </p>
 
 <h2 align="center"> 🔭 I work with... 🔭 </h2>
-<b><p align="center">Arch Linux / FreeBSD / macOS / Windows</p></b>
-<b><p align="center">Java / Kotlin / Groovy</p></b>
-<b><p align="center">Gradle / Maven / Ant</p></b>
-<b><p align="center">Minecraft / Forge / Fabric / Mixins</p></b>
-<b><p align="center">Minecraft Protocol / Discord API / IntelliJ Platform</p></b>
-<b><p align="center">Git CLI / GitHub</p></b>
-<b><p align="center">Jekyll / HTML, CSS, JS / Nginx</p></b>
-<b><p align="center">AWS / DigitalOcean / Hetzner</p></b>
-<b><p align="center">Jitpack / Command Line / SSH</p></b>
+<b align="center">Arch Linux / FreeBSD / macOS / Windows</b>
+<b align="center">Java / Kotlin / Groovy</b>
+<b align="center">Gradle / Maven / Ant</b>
+<b align="center">Minecraft / Forge / Fabric / Mixins</b>
+<b align="center">Minecraft Protocol / Discord API / IntelliJ Platform</b>
+<b align="center">Git CLI / GitHub</b>
+<b align="center">Jekyll / HTML, CSS, JS / Nginx</b>
+<b align="center">AWS / DigitalOcean / Hetzner</b>
+<b align="center">Jitpack / Command Line / SSH</b>
 
 <h2 align="center"> ✅ What I do... ✅ </h2>
 <p align="center">
