@@ -1,52 +1,46 @@
-<h1 align="center">
-  Hi, I'm Dewy. (ᗒᗨᗕ)
-  <br>
-</h1>
+<h1 align="center"> 👋 Hey there! I'm dewy. 👋 </h1>
+<div align="center">
+  <img src="https://i.imgur.com/623KI59.png" alt="header"/>
+</div>
+<h2 align="center"> ---->  Looking for work!!  <---- </h2>
+<h5 align="center"> I'm more than just a Minecraft developer! </h5>
 
-<h4 align="center">A Java developer.</h4>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=iBuyMountainDew" alt="dewy" /></p>
-
+<h2 align="center"> 🦆 whoami 🦆 </h2>
 <p align="center">
-  <a href="https://dqs.dewy.dev">DQS</a>
-  •
-  <a href="https://github.com/kami-blue/client">KAMI Blue</a>
-  •
-  <a href="https://github.com/MC-IDE/MCIDE">MCIDE</a>
-  •
-  <a href="https://dqs.dewy.dev/features#taribone-commands">Taribone</a>
-  •
-  <a href="https://github.com/dewysoftwareleaks">Leaks / Reversal</a>
+  <samp>A Kotlin / Java developer of 3 years with experience in project / community management and the development and deployment of highly scalable applications. 
+  I possess solid knowledge of a bunch of frameworks, libraries and specifications, including but not limited to the Discord API, the Minecraft protocol, Spongepowered Mixins
+  and the IntelliJ Platform.
+  </samp>
+  <br> <br>
+  <img align="center" src="https://komarev.com/ghpvc/?username=iBuyMountainDew" alt="https://github.com/iBuyMountainDew" />
 </p>
 
-## Project Overviews
+<h2 align="center"> 🔭 I work with... 🔭 </h2>
+<b>
+<p align="center">Arch Linux / FreeBSD / macOS / Windows</li>
+<p align="center">Java / Kotlin / Groovy</li>
+<p align="center">Gradle / Maven / Ant</li>
+<p align="center">Minecraft / Forge / Fabric / Mixins</li>
+<p align="center">Git CLI / GitHub</li>
+<p align="center">Jekyll / HTML, CSS, JS / Nginx</li>
+<p align="center">AWS / DigitalOcean / Hetzner</li>
+<p align="center">Jitpack / Command Line / SSH</li>
+</b>
 
-### DQS
+<h2 align="center"> ✅ What I do... ✅ </h2>
+<p align="center">
+  <samp>I maintain a project named KAMI Blue, with over 100K downloads in the past year with no advertising. The project consists of ~28000 lines of both Java and Kotlin code. 
+  While maintaining KAMI Blue I learned most of what there is to know about making client-side mods for Minecraft. I also work on a project named DQS, a proxy and headless pathfinding service and Discord bot for Minecraft; ~32000 lines strong. Through this I've become knowledgable in the Minecraft protocol and the Discord API specifications.
+  Along with those, I work on an IntelliJ-based IDE called MCIDE, an IDE dedicated to Minecraft development.</samp>
+  <br> <br>
+</p>
 
-DQS (Dewy's QueueSkip) is a closed source project that I've been working on for 2 years now. It keeps your Minecraft account logged into a server at all times, allowing you to take control of the account at any time to play. Other features are included too, such as a chat spammer, auto disconnect and Taribone, mentioned later.
+<h2 align="center"> 💬 Contact 💬 </h2>
+<b>
+<p align="center">E-Mail: <samp>dewy@dewy.dev</samp></li>
+<p align="center">Discord: <samp>iBuyMountainDew#3731</samp></li>
+<p align="center">Keybase: <samp>keybase.io/dewy</samp></li>
+</b>
 
-### KAMI Blue
-
-KAMI Blue is an open source Minecraft utility mod aimed at 1.12 anarchy servers.
-
-### MCIDE
-
-An unreleased project consisting of an IDE for Minecraft development of all kinds, replacing the Minecraft development plugin.
-
-### Taribone
-
-A headless Baritone quality Minecraft pathfinding implementation used in DQS.
-
-## Contact
-
-You can contact me via email or Discord. These contacts are listed below;
-
-**Email**: `dewy@dewy.dev`
-**Discord**: `iBuyMountainDew#3731`
-
-For more secretive conversation, contact me on **[Keybase](https://keybase.io/dewy)**.
-
-## Stats
-
-[![dewy's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iBuyMountainDew)](https://dqs.dewy.dev)
-[![dewy's github stats](https://github-readme-stats.vercel.app/api?username=iBuyMountainDew&show_icons=true)](https://dqs.dewy.dev)
+[![dewy's github stats](https://github-readme-stats.vercel.app/api?username=iBuyMountainDew&show_icons=true&theme=tokyonight)](https://dewy.dev)
