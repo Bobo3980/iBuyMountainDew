@@ -14,7 +14,7 @@
 </p>
 
 <h2 align="center"> 🔭 I work with... 🔭 </h2>
-<p align="center">Arch Linux / FreeBSD / macOS / Windows</p>
+<b><p align="center">Arch Linux / FreeBSD / macOS / Windows</p></b>
 <b><p align="center">Java / Kotlin / Groovy</p></b>
 <b><p align="center">Gradle / Maven / Ant</p></b>
 <b><p align="center">Minecraft / Forge / Fabric / Mixins</p></b>
