@@ -3,12 +3,10 @@
   <img src="https://i.imgur.com/623KI59.png" alt="header"/>
 </div>
 <h2 align="center"> ---->  Looking for work!!  <---- </h2>
-<h5 align="center"> I'm more than just a Minecraft developer! </h5>
-
 
 <h2 align="center"> 🦆 whoami 🦆 </h2>
 <p align="center">
-  <samp>A Kotlin / Java developer of 3 years with experience in project / community management and the development and deployment of highly scalable applications. 
+  <samp>A Kotlin / Java developer of 3 years with experience in project and community management, along with the development and deployment of highly scalable applications. 
   I possess solid knowledge of a bunch of frameworks, libraries and specifications, including but not limited to the Discord API, the Minecraft protocol, Spongepowered Mixins
   and the IntelliJ Platform.
   </samp>
