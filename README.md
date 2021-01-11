@@ -22,6 +22,7 @@
 <p align="center">Java / Kotlin / Groovy</li>
 <p align="center">Gradle / Maven / Ant</li>
 <p align="center">Minecraft / Forge / Fabric / Mixins</li>
+<p align="center">Minecraft Protocol / Discord API / IntelliJ Platform</li>
 <p align="center">Git CLI / GitHub</li>
 <p align="center">Jekyll / HTML, CSS, JS / Nginx</li>
 <p align="center">AWS / DigitalOcean / Hetzner</li>
