@@ -1,7 +1,5 @@
 <h1 align="center"> 👋 Hey there! I'm dewy. 👋 </h1>
-<div align="center">
-  <img src="https://i.imgur.com/623KI59.png" alt="header"/>
-</div>
+
 <h2 align="center"> ---->  Looking for work!!  <---- </h2>
 
 <h2 align="center"> 🦆 whoami 🦆 </h2>
@@ -14,17 +12,15 @@
 </p>
 
 <h2 align="center"> 🔭 I work with... 🔭 </h2>
-<b>
-<p align="center">Arch Linux / FreeBSD / macOS / Windows</li>
-<p align="center">Java / Kotlin / Groovy</li>
-<p align="center">Gradle / Maven / Ant</li>
-<p align="center">Minecraft / Forge / Fabric / Mixins</li>
-<p align="center">Minecraft Protocol / Discord API / IntelliJ Platform</li>
-<p align="center">Git CLI / GitHub</li>
-<p align="center">Jekyll / HTML, CSS, JS / Nginx</li>
-<p align="center">AWS / DigitalOcean / Hetzner</li>
-<p align="center">Jitpack / Command Line / SSH</li>
-</b>
+<b><p align="center">Arch Linux / FreeBSD / macOS / Windows</p></b>
+<b><p align="center">Java / Kotlin / Groovy</p></b>
+<b><p align="center">Gradle / Maven / Ant</p></b>
+<b><p align="center">Minecraft / Forge / Fabric / Mixins</p></b>
+<b><p align="center">Minecraft Protocol / Discord API / IntelliJ Platform</p></b>
+<b><p align="center">Git CLI / GitHub</p></b>
+<b><p align="center">Jekyll / HTML, CSS, JS / Nginx</p></b>
+<b><p align="center">AWS / DigitalOcean / Hetzner</p></b>
+<b><p align="center">Jitpack / Command Line / SSH</p></b>
 
 <h2 align="center"> ✅ What I do... ✅ </h2>
 <p align="center">
@@ -35,10 +31,6 @@
 </p>
 
 <h2 align="center"> 💬 Contact 💬 </h2>
-<b>
-<p align="center">E-Mail: <samp>dewy@dewy.dev</samp></li>
-<p align="center">Discord: <samp>iBuyMountainDew#3731</samp></li>
-<p align="center">Keybase: <samp>keybase.io/dewy</samp></li>
-</b>
-
-[![dewy's github stats](https://github-readme-stats.vercel.app/api?username=iBuyMountainDew&show_icons=true&theme=tokyonight)](https://dewy.dev)
+<b><p align="center">E-Mail: <samp>dewy@dewy.dev</samp></p></b>
+<b><p align="center">Discord: <samp>iBuyMountainDew#3731</samp></p></b>
+<b><p align="center">Keybase: <samp>keybase.io/dewy</samp></p></b>
