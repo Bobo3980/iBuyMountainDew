@@ -1,8 +1,4 @@
 <h1 align="center"> 👋 Hey there! I'm dewy. 👋 </h1>
-<div align="center">
-  <img src="https://i.imgur.com/623KI59.png" alt="header"/>
-</div>
-<h2 align="center"> ---->  Looking for work!!  <---- </h2>
 
 <h2 align="center"> 🌍 <a href="https://dewy.dev">https://dewy.dev</a> 🌍 </h2>
 <p align="center">
