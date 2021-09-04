@@ -10,7 +10,7 @@
 <h2 align="center"> 💬 Contact 💬 </h2>
 <b>
 <p align="center">E-Mail: <samp>dewy@dewy.dev</samp></li>
-<p align="center">Discord: <samp>iBuyMountainDew#3731</samp></li>
+<p align="center">Discord: <samp>dewy#0001</samp></li>
 <p align="center">Keybase: <samp>keybase.io/dewy</samp></li>
 </b>
 
