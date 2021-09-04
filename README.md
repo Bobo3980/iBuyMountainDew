@@ -1,4 +1,4 @@
-# hi, i'm [dewy](https://dewy.dev)
+# hi, i'm [dewy](https://dewy.dev).
 
 ```
 Email: dewy@dewy.dev
